@@ -1,2 +1,2 @@
 # Dead-Skulls
-Yanai, Matt, Natan, Ben
+Yanai, Matt, Nathan, Ben
